@@ -2,7 +2,7 @@
 
 A sleek, responsive login form built with HTML and Tailwind CSS. Perfect for modern web applications!
 
-![Login Form Preview](https://github.com/Levisonmsachi/LOGIN-FORM-TAILWIND/blob/main/Screenshot%20(109).png/500x300/1e293b/ffffff?text=Login+Form+Preview)
+![Login Form Preview](https://raw.githubusercontent.com/Levisonmsachi/LOGIN-FORM-TAILWIND/main/Screenshot%20(109).png)
 
 ## Features 🚀
 
